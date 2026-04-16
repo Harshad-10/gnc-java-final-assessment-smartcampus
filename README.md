@@ -50,3 +50,4 @@ This project is a nice introduction to:
 - Exception handling
 - Basic command-line interaction
 - Simple program structure and flow
+![alt text](image.png)
